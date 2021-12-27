@@ -4,6 +4,7 @@
 * [Оглавление](SUMMARY.md)
 * [Ссылки](docs/index.md)
 * [Команды](COMMANDS.md)
+* [Вопросы с интервью](INTERVIEW.md)
 * [RHCSA](RHCSA.md)
 * [Проблемы и решения](PROBLEMS.md)
 * [Changelog](CHANGELOG.md)
